@@ -27,7 +27,6 @@ import {
   trash,
   close,
   ellipsisHorizontalOutline,
-  chevronForward,
   chevronForwardOutline,
 } from 'ionicons/icons';
 
