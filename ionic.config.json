@@ -1,0 +1,7 @@
+{
+  "name": "kyliikmed",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
