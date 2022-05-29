@@ -29,6 +29,7 @@ import './theme/variables.css';
 
 import members from './pages/Members';
 import rules from './pages/Rules';
+import gallery from './pages/Gallery';
 import Menu from './components/Menu';
 
 setupIonicReact();
@@ -44,6 +45,7 @@ const App: React.FC = () => (
           </Route>
           <Route exact path="/members" component={members} />
           <Route exact path="/rules" component={rules} />
+          <Route exact path="/gallery" component={gallery} />
           <Route exact path="/">
             <Redirect to="/home" />
           </Route>
