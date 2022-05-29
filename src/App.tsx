@@ -28,6 +28,7 @@ import '@ionic/react/css/display.css';
 import './theme/variables.css';
 
 import members from './pages/Members';
+import rules from './pages/Rules';
 import Menu from './components/Menu';
 
 setupIonicReact();
@@ -42,6 +43,7 @@ const App: React.FC = () => (
             <Home />
           </Route>
           <Route exact path="/members" component={members} />
+          <Route exact path="/rules" component={rules} />
           <Route exact path="/">
             <Redirect to="/home" />
           </Route>

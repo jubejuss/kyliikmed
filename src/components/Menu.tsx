@@ -10,7 +10,7 @@ import {
   IonIcon,
   IonLabel,
 } from '@ionic/react';
-import { home, people } from 'ionicons/icons';
+import { checkbox, home, people } from 'ionicons/icons';
 
 interface AppPage {
   title: string;
@@ -25,9 +25,14 @@ const appPages: AppPage[] = [
     icon: home,
   },
   {
-    title: 'Members',
+    title: 'Liikmed',
     url: '/members',
     icon: people,
+  },
+  {
+    title: 'Kodukord',
+    url: '/rules',
+    icon: checkbox,
   },
 ];
 
