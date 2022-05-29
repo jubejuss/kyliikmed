@@ -10,7 +10,7 @@ import {
   IonIcon,
   IonLabel,
 } from '@ionic/react';
-import { checkbox, home, people } from 'ionicons/icons';
+import { checkbox, home, images, people } from 'ionicons/icons';
 
 interface AppPage {
   title: string;
@@ -33,6 +33,11 @@ const appPages: AppPage[] = [
     title: 'Kodukord',
     url: '/rules',
     icon: checkbox,
+  },
+  {
+    title: 'Galerii',
+    url: '/gallery',
+    icon: images,
   },
 ];
 
