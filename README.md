@@ -9,4 +9,4 @@ Kohalolijaid saab märkida ja kustutada. Andmebaas on hetkel failis see, kuid he
 
 Peamiselt testisin Ionicu võimalusi – värvid, fondid, komponendid ja töö Reactiga.
 
-Algse, ehk piimaäpi **prototüüp** asub siin: [Kas piima on otsas (Figma)](https://www.figma.com/proto/aV1E7BtGzNzSKrgusiSILR/Kas-piima-on?node-id=1137%3A7662&scaling=min-zoom&page-id=5%3A54&starting-point-node-id=1103%3A6666)
+Algse, ehk piimaäpi **prototüüp** asub siin: [Kas piim on otsas (Figma)](https://www.figma.com/proto/aV1E7BtGzNzSKrgusiSILR/Kas-piima-on?node-id=1137%3A7662&scaling=min-zoom&page-id=5%3A54&starting-point-node-id=1103%3A6666)
